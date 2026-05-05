@@ -1,12 +1,12 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.laraplugins/mcp",
   "description": "Validated Laravel plugin data - health scores, compatibility and vendor trust",
   "version": "1.0.2",
   "remotes": [
     {
-      "url": "https://laraplugins.io/mcp/plugins",
-      "transport": "streamable-http"
+      "type": "streamable-http",
+      "url": "https://laraplugins.io/mcp/plugins"
     }
   ]
 }
