@@ -1,6 +1,6 @@
 {
   "name": "@laraplugins/mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "LaraPlugins.io MCP Server - Connect to Laravel plugin directory MCP",
   "type": "module",
   "main": "index.js",
