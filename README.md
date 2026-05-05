@@ -29,7 +29,8 @@ Add this to your MCP client configuration:
 ## Links
 
 - [LaraPlugins.io](https://laraplugins.io)
-- [MCP Registry](https://registry.modelcontextprotocol.io)
+- [LaraPlugins.io Mcp Guide](https://LaraPlugins.io/mcp)
+- [Author's Article](https://DanielPetrica.com)
 
 ## Publishing
 
