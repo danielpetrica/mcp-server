@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
-  "name": "laraplugins.io/mcp",
+  "name": "io.laraplugins/mcp",
   "description": "Validated Laravel plugin data - health scores, compatibility and vendor trust",
   "version": "1.0.2",
   "remotes": [

@@ -7,5 +7,5 @@
   "require": {
     "php": ">=7.4"
   },
-  "mcpName": "laraplugins.io/mcp"
+  "mcpName": "io.laraplugins/mcp"
 }
