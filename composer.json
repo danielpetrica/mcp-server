@@ -1,0 +1,11 @@
+{
+  "name": "laraplugins/mcp-server",
+  "description": "LaraPlugins.io MCP Server - Connect to Laravel plugin directory MCP",
+  "type": "mcp-server",
+  "keywords": ["mcp", "laravel", "plugins"],
+  "homepage": "https://laraplugins.io",
+  "require": {
+    "php": ">=7.4"
+  },
+  "mcpName": "laraplugins.io/mcp"
+}
